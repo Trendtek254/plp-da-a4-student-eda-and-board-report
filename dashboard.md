@@ -2,17 +2,27 @@
 
 ## Public Dashboard Link
 
-[Paste your Looker Studio public link here]
+https://datastudio.google.com/reporting/3d3a61ef-6344-43de-815e-60670a911a9d
 
 ## Dashboard Screenshots
 
 ### 1. Dashboard Overview
-![Dashboard overview](dashboard_overview.png)
+
+
+
+
+
+
 
 Shows total revenue, total orders, units sold, monthly revenue trend, and sales breakdowns.
 
 ### 2. Interactive Filters
-![Dashboard filters](dashboard_filters.png)
+
+
+
+
+
+
 
 Shows the branch, product, sales channel, and date-range controls.
 
